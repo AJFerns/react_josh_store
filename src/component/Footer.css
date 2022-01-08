@@ -1,0 +1,21 @@
+.main-footer {
+  color: white;
+  background-color: #dc3545;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+.list-unstyled {
+  font-size: 12px;
+  text-decoration: underline;
+  padding-bottom: 0px;
+}
+.col > h4 {
+  font-size: 18px;
+}
+.col-sm {
+  text-align: center;
+  font-size: 10px;
+}
