@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_josh_store/static/css/main.9146f33b.css",
+    "main.js": "/react_josh_store/static/js/main.8e686d9a.js",
+    "static/js/787.308cae43.chunk.js": "/react_josh_store/static/js/787.308cae43.chunk.js",
+    "static/media/sliderimg4.jpeg": "/react_josh_store/static/media/sliderimg4.8c475927bb85b4a7047c.jpeg",
+    "static/media/sliderimg1.jpeg": "/react_josh_store/static/media/sliderimg1.a412d901a6cf88c4cf24.jpeg",
+    "static/media/sliderimg2.jpeg": "/react_josh_store/static/media/sliderimg2.1a948a41ba25f06ff246.jpeg",
+    "static/media/sliderimg3.jpeg": "/react_josh_store/static/media/sliderimg3.57267383f0d225c05bc8.jpeg",
+    "static/media/realmenarzo.jpeg": "/react_josh_store/static/media/realmenarzo.384b9d2be1bf368857ee.jpeg",
+    "index.html": "/react_josh_store/index.html",
+    "main.9146f33b.css.map": "/react_josh_store/static/css/main.9146f33b.css.map",
+    "main.8e686d9a.js.map": "/react_josh_store/static/js/main.8e686d9a.js.map",
+    "787.308cae43.chunk.js.map": "/react_josh_store/static/js/787.308cae43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9146f33b.css",
+    "static/js/main.8e686d9a.js"
+  ]
+}
